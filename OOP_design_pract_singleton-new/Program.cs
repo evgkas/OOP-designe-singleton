@@ -1,9 +1,8 @@
 ﻿using OOP_design_pract_singleton_new;
 
-
 public class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Console.WriteLine("Enter information about auto. Enter stop to continue to command");
         while (true)    //reading auto parameters 
